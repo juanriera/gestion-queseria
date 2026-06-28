@@ -29,6 +29,8 @@ Este repositorio contiene los archivos de datos utilizados en los ejemplos y eje
 
 Los archivos CSV usan separador `;` y decimal `,` (formato europeo), codificación ISO-8859-1, compatibles con Excel en español y con `read_csv2()` de R.
 
+Tanto los CSV como las hojas de cálculo están en la carpeta `recursos/`
+
 ---
 
 ## Uso con R
