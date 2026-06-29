@@ -23,7 +23,7 @@ El hilo conductor puede resumirse en tres verbos: **medir** (parte I), **valoriz
 
 ## Contenido del repositorio
 
-Este repositorio contiene los archivos de datos utilizados en los ejemplos y ejercicios del libro:
+Además del libro en formato PDF, este repositorio contiene los archivos de datos utilizados en los ejemplos y ejercicios del libro:
 
 - `01-pecio-leche.xlsx`: Hoja Excel con un ejemplo de cálculo delo sprecios dla leche según lo explicado en el capítulo 3 del libro.
 - `02-fab_queso_sim.csv`: Registros diarios simulados de recepción de leche y fabricación de queso durante un año completo. Incluye fecha, kilos y litros de leche recibida, composición analítica (MG y proteína), datos de cuba y kilogramos y composición del queso producido.
