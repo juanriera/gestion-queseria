@@ -36,6 +36,7 @@ Los archivos CSV usan separador `;` y decimal `,` (formato europeo), codificaci�
 
 Tanto los CSV como las hojas de cálculo están en la carpeta `recursos/`
 
+**En en repositorio se incluye también el libro "Introducción a la tecnología quesera", un pequeño manual con los conceptos básicos de la tecnología quesera, que puede descargarse también libremente**
 ---
 
 ## Uso con R
