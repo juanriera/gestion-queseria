@@ -10,7 +10,9 @@
 
 *La gestión industrial de la quesería* es un libro de texto para el módulo profesional **MP 5148 "Gestión Industrial de la Quesería"**, del Curso de Especialización FP Superior en Tecnología y Gestión Quesera (RD 1092/2024).
 
-El libro aborda la gestión industrial de la producción quesera desde tres ángulos complementarios:
+El libro aborda la gestión industrial de la producción quesera desde tres ángulos complementarios (gestión técnica, gestión económica y mejora continua), e incluye algunas ideas sobre la calidad, seguridad alimentaria y gestión medioambiental. 
+
+Se estructura en 20 capítulos, organizados en cuatro partes:
 
 - **Parte I — Gestión técnica:** el precio de la leche, el balance de materia, el rendimiento quesero, las pérdidas y los indicadores de productividad y eficiencia de los equipos.
 - **Parte II — Gestión económica:** los costes de producción, el escandallo y el presupuesto anual.
