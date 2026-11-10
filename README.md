@@ -32,7 +32,7 @@ Además del libro en formato PDF, este repositorio contiene los archivos de dato
 - `03-fab_queso.xlsx`: Hoja Excel con el cálculo de un balance de materia utilizando tablas dinámicas. Se correspnde con el capítulo 4 del libro.
 - `04-balance_materia_semanal.csv`: Un balance de materia semanal a partir de las entradas de leche y datos de fabricación, para su exploracion con la hoja de cálculo.
 - `05-ejemplo-std-tecnico.xlsx`: Hoja de cálculo con un modelo de estándar técnico para comprender el ejemplo del libro del capítulo 5.
-- `06-analisis-desviaciones-rendimientos.xlsx`: Un ejemplo en hoja de cálculo para analizar las desviaciones respecto al estándar. Se corresponde con el ejemplo del capítulo 5 (apdo 5.7).
+- `06-analisis-desviaciones-rendimientos_2x2.xlsx`: Un ejemplo en hoja de cálculo para analizar las desviaciones respecto al estándar. Se corresponde con el ejemplo del capítulo 5 (apdo 5.7).
 
 Los archivos CSV usan separador `;` y decimal `,` (formato europeo), codificación ISO-8859-1, compatibles con Excel en español y con `read_csv2()` de R.
 
