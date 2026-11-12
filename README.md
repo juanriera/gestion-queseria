@@ -23,9 +23,14 @@ El hilo conductor puede resumirse en tres verbos: **medir** (parte I), **valoriz
 
 ---
 
-## Contenido del repositorio
+## Contenido adicional
 
-Además del libro en formato PDF, este repositorio contiene los archivos de datos utilizados en los ejemplos y ejercicios del libro:
+- **Fichas de diagnóstico en tecnología quesera** es una relación de fichas con  algunos de los principales problemas en la tecnología quesera que dan lugar a defectos en el queso. Se indican posibles causas y acciones para su corrección. El libro está basado en McSweeney(2007):*Cheese Problems Solved*, CRC Press LLC.
+- **Introducción a la tecnologia quesera.pdf** es un pequeño documento que trata de manera muy resumida los principales conceptos que deben formar parte de la enseñanza y aprendizaje de la tecnología quesera.
+- **La mejora continua en la producción quesera** es una compilación de contenidos que se propone como referencia para el módulo de Gestión Industrial de la Quesería, y cuyo contenido oficial puede verificarse en el RD citado.
+- **Manual de costes y rendimiento quesero** es una relación de métodos para el cálculo del precio de la materia prima y para el cálculo del rendimiento quesero.
+
+Este repositorio además contiene los archivos de datos utilizados en los ejemplos y ejercicios del libro, en la carpeta **`recursos`**:
 
 - `01-pecio-leche.xlsx`: Hoja Excel con un ejemplo de cálculo delo sprecios dla leche según lo explicado en el capítulo 3 del libro.
 - `02-fab_queso_sim.csv`: Registros diarios simulados de recepción de leche y fabricación de queso durante un año completo. Incluye fecha, kilos y litros de leche recibida, composición analítica (MG y proteína), datos de cuba y kilogramos y composición del queso producido.
@@ -38,7 +43,6 @@ Los archivos CSV usan separador `;` y decimal `,` (formato europeo), codificaci�
 
 Tanto los CSV como las hojas de cálculo están en la carpeta `recursos/`
 
-**En en repositorio se incluye también el libro "Introducción a la tecnología quesera", un pequeño manual con los conceptos básicos de la tecnología quesera, que puede descargarse también libremente**
 ---
 
 ## Uso con R
