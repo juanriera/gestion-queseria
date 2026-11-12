@@ -25,7 +25,7 @@ El hilo conductor puede resumirse en tres verbos: **medir** (parte I), **valoriz
 
 ## Contenido adicional
 
-- **Fichas de diagnóstico en tecnología quesera** es una relación de fichas con  algunos de los principales problemas en la tecnología quesera que dan lugar a defectos en el queso. Se indican posibles causas y acciones para su corrección. El libro está basado en McSweeney(2007):*Cheese Problems Solved*, CRC Press LLC.
+- **Fichas de diagnóstico en tecnología quesera** es una relación de fichas con  algunos de los principales problemas en la tecnología quesera que dan lugar a defectos en el queso. Se indican posibles causas y acciones para su corrección. El libro está basado en McSweeney(2007): *Cheese Problems Solved*, CRC Press LLC.
 - **Introducción a la tecnologia quesera.pdf** es un pequeño documento que trata de manera muy resumida los principales conceptos que deben formar parte de la enseñanza y aprendizaje de la tecnología quesera.
 - **La mejora continua en la producción quesera** es una compilación de contenidos que se propone como referencia para el módulo de Gestión Industrial de la Quesería, y cuyo contenido oficial puede verificarse en el RD citado.
 - **Manual de costes y rendimiento quesero** es una relación de métodos para el cálculo del precio de la materia prima y para el cálculo del rendimiento quesero.
