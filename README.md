@@ -1,4 +1,4 @@
-# ATENCION : Documentos no disponibles temporalmente
+# ATENCION : Algunos documentos no están disponibles temporalmente
 
 
 
