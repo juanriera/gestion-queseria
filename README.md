@@ -1,4 +1,4 @@
-# ATENCION : Algunos documentos no están disponibles temporalmente
+# ATENCION : Algunos documentos del contenido adicional no están disponibles temporalmente
 
 
 
