@@ -1,7 +1,3 @@
-# ATENCION : Algunos documentos del contenido adicional no están disponibles temporalmente
-
-
-
 # La gestión industrial de la quesería
 
 **Autor:** Juan Riera  
