@@ -8,7 +8,7 @@
 
 ## Sobre el libro
 
-*La gestión industrial de la quesería* es un libro de texto para el módulo profesional **MP 5148 "Gestión Industrial de la Quesería"**, del Curso de Especialización FP Superior en Tecnología y Gestión Quesera (RD 1092/2024).
+*La gestión industrial de la quesería* es un libro de texto de apoyo para el módulo profesional **MP 5148 "Gestión Industrial de la Quesería"**, del Curso de Especialización FP Superior en Tecnología y Gestión Quesera (RD 1092/2024).
 
 El libro aborda la gestión industrial de la producción quesera desde tres ángulos complementarios (gestión técnica, gestión económica y mejora continua), e incluye algunas ideas sobre la calidad, seguridad alimentaria y gestión medioambiental. 
 
